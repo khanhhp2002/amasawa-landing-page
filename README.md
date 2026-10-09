@@ -21,7 +21,7 @@ The URL above is an expected destination, not confirmation of publication.
 - Toolkit categories are proposed product focus areas, not claims of existing public releases.
 - Claude API integration is explicitly described as planned. No partnership, customers, funding, performance metrics, or released AI features are claimed.
 - The editor is an interactive illustrative preview. Its snippets are not downloadable products or an actual Unity plugin.
-- The contact action opens the connected developer's verified GitHub profile. There is no form or mailing list backend.
+- The contact action opens the visitor's email application with `mailto:khanhbqhe161563@fpt.edu.vn`. There is no form or mailing list backend.
 - Edit the HTML for product updates, actual release links, compatibility, or a company contact address.
 - The site works from a repository subpath through relative asset links and section anchors.
 
